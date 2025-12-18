@@ -43,7 +43,7 @@ pip install numpy matplotlib
 ## Run
 
 ```bash
-python neck_relief_viewer_single_string.py
+python gtr-relief.py
 ```
 
 ---
